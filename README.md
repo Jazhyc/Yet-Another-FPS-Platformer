@@ -45,3 +45,5 @@ Enemies that have simple AI are introduced. There are two kinds of enemies: Move
 
 This README is an abstract summary of the game that describes it in general gaming and programming terms. I have added comments to the script present in the game's source code that explains how various mechanics and objects are programmed. I referred to multiple online sources such as the Unity forums, Youtube, and the past lectures of the course to program the game. 
 Video games have given me many memories and experiences. Likewise, I hope that this simple game can make someone's day just a bit better.
+
+Final Build link: https://drive.google.com/file/d/1Nr2mDAfYrOxVRxQPs900kZGwNS5rQ7Nz/view?usp=sharing
